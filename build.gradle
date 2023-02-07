@@ -24,7 +24,10 @@ ext {
     arc_nav_version = "1.0.0"
     hilt_android_version = '2.42'
     hilt_viewModel_version = '1.0.0-alpha03'
-    koin_version = '2.2.0-alpha-1'
+    koin_version = '3.3.2'
+    compose_bom_version = '2022.10.00'
+    coroutine_test_version = '1.6.0'
+    mockito_version = '4.3.1'
     retrofit_version = '2.9.0'
     okhttp_version = '5.0.0-alpha.10'
     glide_version = '4.13.2'
